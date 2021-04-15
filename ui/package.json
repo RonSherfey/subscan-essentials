@@ -17,7 +17,7 @@
     "lodash": "^4.17.19",
     "moment": "^2.27.0",
     "nuxt": "^2.0.0",
-    "vue-i18n": "^8.20.0",
+    "vue-i18n": "^8.24.2",
     "vue-json-pretty": "^1.6.7"
   },
   "devDependencies": {
